@@ -4,7 +4,7 @@ import kr.hs.emirim.whyk.aopcal.cal.Calculator;
 import kr.hs.emirim.whyk.aopcal.cal.ImpCalculator;
 import kr.hs.emirim.whyk.aopcal.cal.RecCalculator;
 
-public class MainCall {
+public class MainNano {
 	public static void main(String[] args) {
 		long num = 10000;
 		
